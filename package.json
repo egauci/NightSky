@@ -1,0 +1,18 @@
+{
+    "title": "Night Sky",
+    "name": "night-sky",
+    "description": "Night Sky theme based on Themes for Brackets package",
+    "version": "0.1.0",
+    "author": "ed@gauci.co>",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/egauci/NightSky.git"
+    },
+    "engines": {
+        "brackets": ">=0.42.0"
+    },
+    "theme": {
+        "file": "night-sky.css",
+        "dark": true
+    }
+}
